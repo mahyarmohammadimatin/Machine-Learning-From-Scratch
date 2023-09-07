@@ -1,3 +1,5 @@
+<img src="https://github.com/mahyarmohammadimatin/Machine-Learning-From-Scratch/blob/main/pic.png">
+
 # Classification Perceptron Analysis
 ### Description:
 Explore problem categorization in ML using Mitchell's perspective. Evaluate tasks, implement the Pocket algorithm-based Perceptron model 
